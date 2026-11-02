@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy | Rigging Handbook</title>
+  <style>
+    body {font-family:Arial,sans-serif;background:#091522;color:#f5f7fa;line-height:1.7;margin:0;padding:24px}
+    main {max-width:760px;margin:auto}
+    h1,h2 {color:#ff891c}
+    a {color:#8cc9ff}
+    small {color:#b5c1cc}
+  </style>
+</head>
+<body>
+<main>
+<h1>Rigging Handbook — Privacy Policy</h1>
+<small>Last updated: 2 November 2026</small>
+<p>Rigging Handbook is an Android application providing lifting equipment reference information, technical tables and calculators.</p>
+<h2>Information We Collect</h2>
+<p>Rigging Handbook does not require users to create an account or provide personal information. Its core features work offline. The developer does not intentionally collect personal information through the app.</p>
+<h2>Advertising and Analytics</h2>
+<p>The app does not contain advertising. It does not intentionally use third-party advertising or analytics services.</p>
+<h2>Local Data</h2>
+<p>App preferences and saved favourites may be stored locally on the user's device to support app functionality.</p>
+<h2>Internet and Updates</h2>
+<p>An internet connection is not required to use the app's reference tables or calculators. App updates may be distributed through Google Play, which processes information according to its own privacy policies.</p>
+<h2>Data Sharing</h2>
+<p>The developer does not intentionally transmit or sell personal data through the app.</p>
+<h2>Data Security</h2>
+<p>The app is designed to function offline and minimise data processing. Users should keep their device and app updated.</p>
+<h2>Children's Privacy</h2>
+<p>The app is intended as a professional technical reference and is not designed for children.</p>
+<h2>Changes to This Policy</h2>
+<p>This privacy policy may be updated when the app's features or data practices change. The latest version will be published on this page.</p>
+<h2>Contact</h2>
+<p>For privacy questions, contact the developer using the contact details provided on the Rigging Handbook Google Play listing.</p>
+</main>
+</body>
+</html>
